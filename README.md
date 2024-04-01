@@ -1,4 +1,4 @@
-### Hi there 👋
+안녕하세요 웹 공부하는 예유니입니다!🎁
 
 <!--
 **Leeyeyun/Leeyeyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
